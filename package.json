@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "aframe-mouse-cursor-component": "^0.5.3",
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "start": "live-server docs"
+  }
+}
